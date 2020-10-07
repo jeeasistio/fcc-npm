@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "jeeasistio",
 	"description": "this is my fcc npm challenge",
+	"keywords": ["npm", "fcc", "challenge"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
